@@ -1,3 +1,6 @@
+// 1197 최소 스패닝 트리
+// tags: mst graphs
+
 open System
 open System.Collections.Generic
 

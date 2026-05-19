@@ -1,3 +1,6 @@
+// 14624 전북대학교
+// tags: implementation
+
 let (*) s a = String.replicate a s
 
 let n = stdin.ReadLine() |> int

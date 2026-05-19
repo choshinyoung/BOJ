@@ -1,3 +1,6 @@
+// 1103 게임
+// tags: dp graphs graph_traversal dfs
+
 let [| n; m |] = stdin.ReadLine().Split() |> Array.map int
 
 let board = Array.init n (fun _ -> stdin.ReadLine())

@@ -1,3 +1,6 @@
+// 2342 Dance Dance Revolution
+// tags: dp
+
 let INF = 400001
 
 let a =

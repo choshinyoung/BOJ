@@ -1,3 +1,6 @@
+// 20303 할로윈의 양아치
+// tags: dp data_structures graphs graph_traversal disjoint_set knapsack
+
 let input () =
     stdin.ReadLine().Split() |> Array.map int
 

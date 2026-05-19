@@ -1,3 +1,6 @@
+// 23207 Preludes
+// tags: implementation string
+
 let rec solve c =
     match stdin.ReadLine() with
     | null -> ()

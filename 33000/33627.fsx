@@ -1,3 +1,6 @@
+// 33627 네모네모
+// tags: greedy sliding_window
+
 let input () =
     stdin.ReadLine().Split() |> Array.map int
 

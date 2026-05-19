@@ -1,3 +1,6 @@
+// 25418 정수 a를 k로 만들기
+// tags: dp graphs graph_traversal bfs
+
 open System.Collections.Generic
 
 let [| a; k |] = stdin.ReadLine().Split() |> Array.map int

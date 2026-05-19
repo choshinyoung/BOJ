@@ -1,3 +1,6 @@
+// 17143 낚시왕
+// tags: implementation simulation
+
 type Shark = { speed: int; dir: int; size: int }
 
 let [| r; c; m |] = stdin.ReadLine().Split() |> Array.map int

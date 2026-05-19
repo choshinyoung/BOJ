@@ -1,3 +1,6 @@
+// 1509 팰린드롬 분할
+// tags: dp
+
 let s = stdin.ReadLine()
 let n = s.Length
 

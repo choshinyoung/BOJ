@@ -1,3 +1,6 @@
+// 1562 계단 수
+// tags: dp bitmask dp_bitfield
+
 let n = stdin.ReadLine() |> int
 
 let dp = Array3D.zeroCreate n 10 1024

@@ -1,3 +1,6 @@
+// 17387 선분 교차 2
+// tags: geometry case_work line_intersection
+
 let [| x1; y1; x2; y2 |] = stdin.ReadLine().Split() |> Array.map int64
 let [| x3; y3; x4; y4 |] = stdin.ReadLine().Split() |> Array.map int64
 

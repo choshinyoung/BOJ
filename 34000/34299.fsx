@@ -1,3 +1,6 @@
+// 34299 Clock Catchup
+// tags: math implementation arithmetic simulation
+
 let input () =
     stdin.ReadLine().Split ":"
     |> Array.map int

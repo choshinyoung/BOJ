@@ -1,3 +1,6 @@
+// 1212 8진수 2진수
+// tags: math implementation string
+
 stdin.ReadLine()
 |> String.collect (fun c ->
     [| "000"; "001"; "010"; "011"; "100"; "101"; "110"; "111" |][int c - int '0'])

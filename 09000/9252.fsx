@@ -1,3 +1,6 @@
+// 9252 LCS 2
+// tags: dp string traceback lcs
+
 let s1 = stdin.ReadLine()
 let s2 = stdin.ReadLine()
 

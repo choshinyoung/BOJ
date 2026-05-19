@@ -1,3 +1,6 @@
+// 16139 인간-컴퓨터 상호작용
+// tags: prefix_sum
+
 open System.Text
 
 let char2int c = int c - int 'a'

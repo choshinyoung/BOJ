@@ -1,3 +1,6 @@
+// 10177 Magic Squares
+// tags: math implementation arithmetic
+
 let n = stdin.ReadLine() |> int
 
 for _ in 1..n do

@@ -1,3 +1,6 @@
+// 1374 강의실
+// tags: data_structures greedy sorting priority_queue
+
 open System.Collections.Generic
 
 let pq = PriorityQueue()

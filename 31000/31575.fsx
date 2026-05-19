@@ -1,3 +1,6 @@
+// 31575 도시와 비트코인
+// tags: dp graphs graph_traversal bfs dfs grid_graph
+
 let [| n; m |] = stdin.ReadLine().Split() |> Array.map int
 
 let city =

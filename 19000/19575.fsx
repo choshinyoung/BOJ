@@ -1,3 +1,6 @@
+// 19575 Polynomial
+// tags: math implementation
+
 let [| n; x |] = stdin.ReadLine().Split() |> Array.map int64
 
 Seq.init (int n + 1) (fun _ -> stdin.ReadLine().Split()[0] |> int64)

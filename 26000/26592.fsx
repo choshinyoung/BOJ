@@ -1,3 +1,6 @@
+// 26592 Triangle Height
+// tags: math arithmetic
+
 let t = stdin.ReadLine() |> int
 
 for _ in 1..t do

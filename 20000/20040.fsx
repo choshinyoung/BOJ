@@ -1,3 +1,6 @@
+// 20040 사이클 게임
+// tags: data_structures disjoint_set
+
 open System
 
 let [| n; m |] = Console.ReadLine().Split() |> Array.map int

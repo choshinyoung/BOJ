@@ -1,3 +1,6 @@
+// 1026 보물
+// tags: math greedy sorting
+
 stdin.ReadLine() |> ignore
 
 (stdin.ReadLine().Split() |> Array.map int |> Array.sort |> Array.rev,

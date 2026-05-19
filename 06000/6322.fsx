@@ -1,3 +1,6 @@
+// 6322 직각 삼각형의 두 변
+// tags: math geometry arithmetic pythagoras
+
 open System
 
 Seq.initInfinite (fun _ -> stdin.ReadLine().Split() |> Array.map double)

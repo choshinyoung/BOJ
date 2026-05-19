@@ -1,3 +1,6 @@
+// 1394 암호
+// tags: math data_structures string set combinatorics hash_set
+
 let a = stdin.ReadLine()
 let b = stdin.ReadLine()
 

@@ -1,3 +1,6 @@
+// 16017 Telemarketer or not?
+// tags: implementation
+
 let [| a; b; c; d |] = Array.init 4 (fun _ -> stdin.ReadLine() |> int)
 
 if (a = 8 || a = 9) && (d = 8 || d = 9) && b = c then

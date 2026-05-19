@@ -1,3 +1,6 @@
+// 16566 카드 게임
+// tags: data_structures binary_search disjoint_set
+
 open System
 
 let input () =

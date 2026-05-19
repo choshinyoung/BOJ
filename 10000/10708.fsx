@@ -1,3 +1,6 @@
+// 10708 크리스마스 파티
+// tags: implementation
+
 let input () =
     stdin.ReadLine().Split() |> Array.map int
 

@@ -1,3 +1,6 @@
+// 9325 얼마?
+// tags: math arithmetic
+
 let input () = stdin.ReadLine() |> int
 
 for _ in 1 .. input () do

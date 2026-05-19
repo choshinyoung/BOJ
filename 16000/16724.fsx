@@ -1,3 +1,6 @@
+// 16724 피리 부는 사나이
+// tags: data_structures graphs graph_traversal dfs disjoint_set grid_graph
+
 open System
 
 let [| n; m |] = Console.ReadLine().Split() |> Array.map int

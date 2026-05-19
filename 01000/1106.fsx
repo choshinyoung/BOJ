@@ -1,3 +1,6 @@
+// 1106 호텔
+// tags: dp knapsack
+
 open System
 
 let [| c; n |] = Console.ReadLine().Split() |> Array.map int

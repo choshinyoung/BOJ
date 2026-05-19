@@ -1,3 +1,6 @@
+// 10775 공항
+// tags: data_structures greedy disjoint_set
+
 let input = stdin.ReadLine >> int
 
 let g = input ()

@@ -1,3 +1,6 @@
+// 2263 트리의 순회
+// tags: trees divide_and_conquer recursion
+
 let n = stdin.ReadLine() |> int
 
 let io = stdin.ReadLine().Split() |> Array.map int

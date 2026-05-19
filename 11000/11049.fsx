@@ -1,3 +1,6 @@
+// 11049 행렬 곱셈 순서
+// tags: dp
+
 open System
 
 let n = stdin.ReadLine() |> int

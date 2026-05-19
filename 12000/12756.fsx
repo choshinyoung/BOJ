@@ -1,3 +1,6 @@
+// 12756 고급 여관
+// tags: math implementation arithmetic simulation
+
 let [| d1; h1 |] = stdin.ReadLine().Split() |> Array.map int
 let [| d2; h2 |] = stdin.ReadLine().Split() |> Array.map int
 

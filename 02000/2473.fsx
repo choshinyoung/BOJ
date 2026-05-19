@@ -1,3 +1,6 @@
+// 2473 세 용액
+// tags: sorting binary_search two_pointer
+
 open System
 
 let n = Console.ReadLine() |> int

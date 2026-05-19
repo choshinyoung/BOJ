@@ -1,3 +1,6 @@
+// 33967 SCSC 기차 놀이
+// tags: implementation simulation
+
 stdin.ReadLine() |> ignore
 
 stdin.ReadLine()

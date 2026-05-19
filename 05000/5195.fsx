@@ -1,3 +1,6 @@
+// 5195 Stump Speech
+// tags: implementation string
+
 let k = stdin.ReadLine() |> int
 
 for i in 1..k do

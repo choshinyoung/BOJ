@@ -1,3 +1,6 @@
+// 23375 Arm Coordination
+// tags: math geometry arithmetic
+
 let [| x; y |] = stdin.ReadLine().Split() |> Array.map int
 let r = stdin.ReadLine() |> int
 

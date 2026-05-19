@@ -1,3 +1,6 @@
+// 9466 텀 프로젝트
+// tags: graphs graph_traversal dfs
+
 open System
 
 let t = Console.ReadLine() |> int

@@ -1,3 +1,6 @@
+// 33639 Candy Store
+// tags: implementation string bruteforcing
+
 open System
 
 let [| n; q |] = stdin.ReadLine().Split() |> Array.map int

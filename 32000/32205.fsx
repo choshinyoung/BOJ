@@ -1,3 +1,6 @@
+// 32205 네모의 꿈
+// tags: math data_structures geometry set hash_set
+
 let n = stdin.ReadLine() |> int
 let mutable s = set []
 

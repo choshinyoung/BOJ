@@ -1,3 +1,6 @@
+// 2467 용액
+// tags: binary_search two_pointer
+
 open System
 
 let N = Console.ReadLine() |> int

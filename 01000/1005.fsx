@@ -1,3 +1,6 @@
+// 1005 ACM Craft
+// tags: dp graphs dag topological_sorting
+
 open System
 
 let input () =

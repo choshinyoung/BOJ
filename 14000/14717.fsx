@@ -1,3 +1,6 @@
+// 14717 앉았다
+// tags: math implementation bruteforcing combinatorics probability
+
 let [| a; b |] = stdin.ReadLine().Split() |> Array.map int
 
 let s =

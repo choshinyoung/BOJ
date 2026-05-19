@@ -1,3 +1,6 @@
+// 22970 문제 재탕
+// tags: implementation bruteforcing
+
 stdin.ReadLine() |> ignore
 let a = stdin.ReadLine().Split() |> Array.map int
 

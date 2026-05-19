@@ -1,3 +1,6 @@
+// 10801 카드게임
+// tags: implementation
+
 let a () =
     stdin.ReadLine().Split() |> Array.map int
 

@@ -1,3 +1,6 @@
+// 13460 구슬 탈출 2
+// tags: implementation graphs graph_traversal simulation bfs
+
 open System.Collections.Generic
 
 let [| n; m |] = stdin.ReadLine().Split() |> Array.map int

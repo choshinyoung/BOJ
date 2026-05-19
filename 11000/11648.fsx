@@ -1,3 +1,6 @@
+// 11648 지속
+// tags: math implementation arithmetic
+
 let rec solve c (a: string) =
     if a.Length = 1 then
         c

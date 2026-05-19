@@ -1,3 +1,6 @@
+// 30792 gahui and sousenkyo 2
+// tags: implementation
+
 stdin.ReadLine() |> ignore
 let g = stdin.ReadLine() |> int
 

@@ -1,3 +1,6 @@
+// 34926 공룡 게임
+// tags: dp graphs graph_traversal bfs
+
 open System.Collections.Generic
 
 let [| n; k |] = stdin.ReadLine().Split() |> Array.map int

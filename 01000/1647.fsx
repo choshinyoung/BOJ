@@ -1,3 +1,6 @@
+// 1647 도시 분할 계획
+// tags: graphs mst
+
 open System
 open System.Collections.Generic
 

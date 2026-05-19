@@ -1,3 +1,6 @@
+// 7453 합이 0인 네 정수
+// tags: sorting binary_search two_pointer mitm
+
 let n = stdin.ReadLine() |> int
 
 let a = Array.init 4 (fun _ -> Array.zeroCreate n)

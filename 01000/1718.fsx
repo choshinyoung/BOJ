@@ -1,3 +1,6 @@
+// 1718 암호
+// tags: implementation string
+
 let txt = stdin.ReadLine()
 let key = stdin.ReadLine()
 

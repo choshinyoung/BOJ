@@ -1,3 +1,6 @@
+// 1799 비숍
+// tags: backtracking
+
 let n = stdin.ReadLine() |> int
 
 let b1, b2 =

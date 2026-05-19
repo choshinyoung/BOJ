@@ -1,3 +1,6 @@
+// 2756 다트
+// tags: math implementation geometry pythagoras
+
 let n = stdin.ReadLine() |> int
 
 let score [| x: double; y: double |] =

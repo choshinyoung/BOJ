@@ -1,3 +1,6 @@
+// 9527 1의 개수 세기
+// tags: math prefix_sum bitmask
+
 let [| a; b |] = stdin.ReadLine().Split() |> Array.map int64
 
 let count n =

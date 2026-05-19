@@ -1,3 +1,6 @@
+// 25194 결전의 금요일
+// tags: dp bruteforcing
+
 open System
 
 Console.ReadLine() |> ignore

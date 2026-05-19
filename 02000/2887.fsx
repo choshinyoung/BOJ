@@ -1,3 +1,6 @@
+// 2887 행성 터널
+// tags: graphs sorting mst
+
 let n = stdin.ReadLine() |> int
 
 let nodes =

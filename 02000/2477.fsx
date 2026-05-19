@@ -1,3 +1,6 @@
+// 2477 참외밭
+// tags: math implementation geometry
+
 let k = stdin.ReadLine() |> int
 
 let a = Array.init 6 (fun _ -> stdin.ReadLine()[2..] |> int)

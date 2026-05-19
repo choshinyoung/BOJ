@@ -1,3 +1,6 @@
+// 34248 레몬 게임
+// tags: greedy
+
 stdin.ReadLine() |> ignore
 
 stdin.ReadLine().Split()

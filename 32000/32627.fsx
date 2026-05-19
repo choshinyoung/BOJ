@@ -1,3 +1,6 @@
+// 32627 문자열 줄이기
+// tags: implementation string sorting
+
 let m = stdin.ReadLine().Split()[1] |> int
 let s = stdin.ReadLine()
 

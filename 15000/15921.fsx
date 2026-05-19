@@ -1,3 +1,6 @@
+// 15921 수찬은 마린보이야!!
+// tags: math
+
 let n = stdin.ReadLine() |> int
 
 if n = 0 then

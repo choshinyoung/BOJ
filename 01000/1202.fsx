@@ -1,3 +1,6 @@
+// 1202 보석 도둑
+// tags: data_structures greedy sorting priority_queue
+
 open System.Collections.Generic
 
 let input () =

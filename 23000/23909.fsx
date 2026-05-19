@@ -1,3 +1,6 @@
+// 23909 Record Breaker
+// tags: implementation
+
 for c in 1 .. stdin.ReadLine() |> int do
     stdin.ReadLine() |> ignore
 

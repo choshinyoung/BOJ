@@ -1,3 +1,6 @@
+// 10942 팰린드롬?
+// tags: dp
+
 open System
 open System.Text
 

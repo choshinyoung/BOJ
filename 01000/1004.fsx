@@ -1,3 +1,6 @@
+// 1004 어린 왕자
+// tags: math geometry
+
 let dist2 x1 y1 x2 y2 = pown (x1 - x2) 2 + pown (y1 - y2) 2
 
 let t = stdin.ReadLine() |> int

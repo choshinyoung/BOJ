@@ -1,3 +1,6 @@
+// 2162 선분 그룹
+// tags: data_structures geometry disjoint_set line_intersection
+
 type Point = { x: int64; y: int64 }
 
 let ccw p1 p2 p3 =

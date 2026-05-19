@@ -1,3 +1,6 @@
+// 2098 외판원 순회
+// tags: bitmask dp dp_bitfield tsp
+
 open System
 
 let n = stdin.ReadLine() |> int

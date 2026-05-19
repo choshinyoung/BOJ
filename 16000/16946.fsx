@@ -1,3 +1,6 @@
+// 16946 벽 부수고 이동하기 4
+// tags: graphs graph_traversal bfs dfs
+
 open System.Collections.Generic
 
 let [| n; m |] = stdin.ReadLine().Split() |> Array.map int

@@ -1,3 +1,6 @@
+// 4890 Tiles of Tetris, NOT!
+// tags: math number_theory euclidean
+
 let rec solve () =
     let [| a; b |] = stdin.ReadLine().Split() |> Array.map int64
 

@@ -1,3 +1,6 @@
+// 10474 분수좋아해?
+// tags: math arithmetic
+
 let rec solve () =
     let [| a; b |] = stdin.ReadLine().Split() |> Array.map int
 

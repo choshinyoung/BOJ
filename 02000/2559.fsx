@@ -1,3 +1,6 @@
+// 2559 수열
+// tags: prefix_sum two_pointer sliding_window
+
 let input () =
     stdin.ReadLine().Split() |> Array.map int
 

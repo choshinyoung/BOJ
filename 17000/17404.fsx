@@ -1,3 +1,6 @@
+// 17404 RGB거리 2
+// tags: dp
+
 open System
 
 let MAX = 1000 * 1000

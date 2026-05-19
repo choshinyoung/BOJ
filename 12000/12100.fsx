@@ -1,3 +1,6 @@
+// 12100 2048 (Easy)
+// tags: implementation bruteforcing simulation backtracking
+
 let n = stdin.ReadLine() |> int
 
 let tiles =

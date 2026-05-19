@@ -1,3 +1,6 @@
+// 27434 팩토리얼 3
+// tags: math arithmetic arbitrary_precision
+
 open System.Numerics
 
 let rec fac a b =

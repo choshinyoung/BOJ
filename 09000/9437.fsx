@@ -1,3 +1,6 @@
+// 9437 사라진 페이지 찾기
+// tags: math arithmetic
+
 let rec solve () =
     match stdin.ReadLine() with
     | "0" -> ()

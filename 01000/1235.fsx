@@ -1,3 +1,6 @@
+// 1235 학생 번호
+// tags: implementation data_structures string bruteforcing set
+
 open System.Collections.Generic
 
 let n = stdin.ReadLine() |> int

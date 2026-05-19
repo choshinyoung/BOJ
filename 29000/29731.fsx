@@ -1,3 +1,6 @@
+// 29731 2033년 밈 투표
+// tags: implementation string set
+
 let n = stdin.ReadLine() |> int
 
 Array.init n (fun _ -> stdin.ReadLine())

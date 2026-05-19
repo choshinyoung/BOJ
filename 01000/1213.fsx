@@ -1,3 +1,6 @@
+// 1213 팰린드롬 만들기
+// tags: implementation greedy string parity
+
 open System
 
 let count = stdin.ReadLine() |> Seq.countBy id |> Seq.sort |> Seq.toList

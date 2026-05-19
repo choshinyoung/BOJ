@@ -1,3 +1,6 @@
+// 33628 Connect the GSHS
+// tags: data_structures trees disjoint_set lca sparse_table smaller_to_larger
+
 // 솔직히 이해 못 함
 open System.Text
 

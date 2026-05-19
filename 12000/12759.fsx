@@ -1,3 +1,6 @@
+// 12759 틱! 택! 토!
+// tags: implementation simulation case_work
+
 let start = stdin.ReadLine() |> int
 
 let row = Array2D.zeroCreate 3 4

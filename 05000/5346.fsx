@@ -1,3 +1,6 @@
+// 5346 Frodo Sequence
+// tags: math arithmetic
+
 let rec solve () =
     match stdin.ReadLine() |> int with
     | 0 -> ()

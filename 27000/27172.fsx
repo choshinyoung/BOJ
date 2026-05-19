@@ -1,3 +1,6 @@
+// 27172 수 나누기 게임
+// tags: math bruteforcing number_theory primality_test sieve
+
 let m = 1000000
 
 let n = stdin.ReadLine() |> int
